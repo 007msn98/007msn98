@@ -14,3 +14,8 @@
 <br><br>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=007msn98&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="daniel-gomes" />
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-gomes-assunção) 
+
