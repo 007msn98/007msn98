@@ -2,7 +2,7 @@
 
 <p>Hi there👋, my name is Daniel Gomes.:adult: ‍💻</p>
 
-<p>I'm studying web development at <a href="https://www.bing.com/ck/a?!&&p=d8bb240731b88fa1JmltdHM9MTY3NjMzMjgwMCZpZ3VpZD0wMjcxNTA4ZS0xZjYyLTZhNWQtMDQ4MC00MmU4MWUzNTZiM2MmaW5zaWQ9NTE3Nw&ptn=3&hsh=3&fclid=0271508e-1f62-6a5d-0480-42e81e356b3c&psq=trybe&u=a1aHR0cHM6Ly93d3cuYmV0cnliZS5jb20v&ntb=1">Trybe</a>. 💚</p>
+<p>I'm studying web development</p>
 
 <p>:rocket:Skills i'm learning:</p>
 <div styel="display: inline_block">
