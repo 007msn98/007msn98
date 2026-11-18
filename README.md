@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5300&lines=Welcome+to+my+GitHub+!+)](https://git.io/typing-svg)
 
-<p>Hi there👋, my name is Daniel Gomes.:adult: ‍💻</p>
+<p>Hi there👋.:adult: ‍💻</p>
 
-<p>I'm studying web development</p>
 
-<p>:rocket:Skills i'm learning:</p>
+<p>:rocket:Skills i was learning:</p>
 <div styel="display: inline_block">
 <img alt="REACT" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="40" width="60"/>
@@ -13,6 +12,7 @@
 &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="40" width="60">
 </div>
 
+But bruh. Web dev so boring
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=007msn98&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="daniel-gomes" />
 
 
